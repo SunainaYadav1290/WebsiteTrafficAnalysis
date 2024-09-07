@@ -11,9 +11,3 @@ What was the overall click through rate (clicks/pageviews)?
 How does the clickrate distribute across different links?
 Is there any correlation between clicks and previews on a link? Is it significant? How large is the effect? Make sure to at least test for potential linear as well as categorical (think binary) relationships between both variables.
 
-●	Conducted website performance analysis using Python, examining pageviews from different countries and identifying the country with the highest traffic
-●	Overall Clickthrough Rate: Calculated the overall clickthrough rate by determining the ratio of total clicks to total pageviews..
-●	Click Rate Distribution: Analyzed and visualized clickthrough rates across all links to understand distribution patterns.
-●	Correlation Testing: Performed correlation analysis, revealing a strong positive correlation (r = 0.98) between clicks and previews, suggesting that these variables are closely related.
-
-
