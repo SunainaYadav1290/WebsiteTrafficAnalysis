@@ -9,5 +9,5 @@ How many total pageview events did the links in the provided dataset receive in 
 Which countries did the pageviews come from?
 What was the overall click through rate (clicks/pageviews)?
 How does the clickrate distribute across different links?
-Is there any correlation between clicks and previews on a link? Is it significant? How large is the effect? Make sure to at least test for potential linear as well as categorical (think binary) relationships between both variables.
+Is there any correlation between clicks and previews on a link? Is it significant? How large is the effect?Also  test for potential linear as well as categorical (think binary) relationships between both variables.
 
